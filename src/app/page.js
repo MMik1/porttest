@@ -5,7 +5,6 @@ import ProjectsSection from "./components/ProjectsSection";
 import EmailSection from "./components/EmailSection";
 import Footer from "./components/Footer";
 import AchievementsSection from "./components/AchievementsSection";
-import TaalSwitchTwee from "./components/TaalSwitchTwee"; // Use correct import
 
 export default function Home() {
     return (
