@@ -16,7 +16,6 @@ export default function Home() {
                 <AboutSection />
                 <ProjectsSection />
                 <EmailSection />
-                <TaalSwitchTwee />
             </div>
             <Footer />
         </main>
