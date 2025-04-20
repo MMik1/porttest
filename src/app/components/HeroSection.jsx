@@ -28,7 +28,7 @@ const HeroSection = () => {
                                 1000,
                                 "Unity Developer",
                                 1000,
-                                "Photoshop Designer",
+                                "Data Bases",
                                 1000,
                             ]}
                             wrapper="span"
@@ -37,7 +37,7 @@ const HeroSection = () => {
                         />
                     </h1>
                     <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-                        Welkom op mijn portfolio! Ik ben een 18-jarige student aan het SintLucas, waar ik me verdiep in de fascinerende wereld van webontwikkeling. Hoewel ik pas een jaar in deze richting studeer, heb ik een diepe passie voor technologie en design, die ik graag in mijn projecten verwerk.
+                        Welkom op mijn portfolio! Ik ben een 19-jarige student aan het SintLucas, waar ik me verdiep in de fascinerende wereld van webontwikkeling. Hoewel ik pas een jaar in deze richting studeer, heb ik een diepe passie voor technologie en design, die ik graag in mijn projecten verwerk.
                     </p>
                     <div>
                         <Link

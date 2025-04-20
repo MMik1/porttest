@@ -21,7 +21,7 @@ const projectsData = [
     image: "/images/projects/2.png",
     tag: ["Web"],
     gitUrl: "https://github.com/MMik1/PointClickwebgame",
-    previewUrl: "",
+    previewUrl: "http://point.portfoliomans.nl/",
   },
   {
     id: 3,
@@ -44,7 +44,7 @@ const projectsData = [
 ];
 
 const ProjectsSection = () => {
-  const [tag, setTag] = useState("All");
+  const [tag, setTag] = useState("Web");
   const ref = useRef(null);
   const isInView = useInView(ref, { once: true });
 
